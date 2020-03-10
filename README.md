@@ -16,7 +16,7 @@ p    {color: darkblue;}
 <hr>
 <h2>About</h2>
 <p>Smitten Ice Cream is reengineering ice cream from the ground up! Smitten Ice Cream was started by Robyn Sue Fisher in a Radio Flyer wagon selling around SF. She spent 2 years in her garage prototyping her design for the now perfect Brrrr machine.
-Smitten started by inventing thier own ice cream machine — the only one of its kind that can churn the freshest, creamiest scoop right in front of you in 90 seconds. They made sure thier ingredients are just as fresh. Everything from their ice cream bases and cone batter to sauces and cookies are made from scratch using only unprocessed, real, locally sourced and sustainable ingredients. 
+This ice cream machine — the only one of its kind- can churn the freshest, creamiest scoop right in front of you in 90 seconds. They make sure all their ingredients are just as fresh. Everything from their ice cream bases and cone batter to sauces and cookies are made from scratch using only unprocessed, real, locally sourced and sustainable ingredients. 
 They have 5 shops throughout the Bay Area. </p>
 <hr>
 <p>Click <a href="https://www.instagram.com/smittenicecream/?hl=en">here</a> for thier instagram page. Click <a href="hhttps://www.smittenicecream.com/">here</a> for thier website! </p>
